@@ -107,12 +107,14 @@ Essa pesquisa possui o objetivo de compreender a importância e a utilização d
   ![exemplo](https://help.lucid.co/hc/article_attachments/32682945888404)
 
   # Prática
+  Foi utilizado a ferramenta **Flowgorithm** para a criação dos fluxogramas abaixo, um aplicativo fácil de se aprender e utilizar.
     - **Número é par ou ímpar?**
   
   ![image](https://github.com/user-attachments/assets/74189459-d2e2-4b68-8cbd-7dacfc4aef5d)
   
     - **Cadastro do Usuário**
 
+![image](https://github.com/user-attachments/assets/293e006a-5d7c-4b9c-9c4a-aef0c3560b4c)
 
   # Conclusão
-  Conclui-se que o fluxograma é muito útil em muitas áreas do conhecimento, principalmente em **Desenvolvimento de Sistemas**, pois com esse recurso, facilita a visualização, organização e resolução do código no programa, podendo também auxiliar no trabalho em equipe e melhor compreensão de todos ao problema proposto.
+  Com essa atividade, foi óbvio o quanto um fluxograma pode ser importante e essencial para a criação de um programa, pois possui uma fácil visualização do que o programa pode realizar.
